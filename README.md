@@ -1,0 +1,2 @@
+# Gomoku
+School project
